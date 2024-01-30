@@ -48,6 +48,11 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^1.0.0
 
+  extended_nested_scroll_view: ^5.1.2
+  easy_refresh: ^3.3.4
+  flutter_swiper_null_safety: ^1.0.2
+  card_swiper: ^2.0.4
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
